@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:mysql://root:AyfshINXavVYXDsDwOmTeDCqobrPDsLg@junction.proxy.rlwy.net:25981/railway
+    username: ROOT
+    password: AyfshINXavVYXDsDwOmTeDCqobrPDsLg
+  jpa:
+    open-in-view: false
+    hibernate:
+      ddl-auto: validate
